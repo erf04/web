@@ -49,3 +49,80 @@ div:hover{
     cursor: pointer;
     transition: 1s;
 }
+input{
+    width: 240px;
+    
+    
+}
+.back{
+    margin-right: 25px;
+    
+    
+}
+.back:hover{
+    box-shadow: 4px 4px 7px #2e2e2e;
+}
+.for{
+    margin-left: 25px;
+}
+.for:hover{
+    box-shadow: 4px 4px 7px #2e2e2e;
+
+}
+.play:hover{
+    box-shadow: 4px 4px 7px #2e2e2e;
+}
+
+bigpart -> {
+    height: 400px;
+    width: 270px;
+    rgba(171, 179, 192, 0.694), rgba(220, 234, 248, 0.674)
+}
+
+while mouseover -> {
+   rgba(171, 179, 192, 0.796), rgba(220, 234, 248, 0.792)
+}
+
+
+music player part ->{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+song and the song writers -> {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+song writers -> {
+    color: #666666;
+    font-size: smaller;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+song writers while mouseover{
+    color: #2e2e2e;
+}
+
+.play,
+.back,
+.for{
+    border-color: #ffffff;
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+}
+.play,
+.back,
+.for:hover{
+    cursor: pointer;
+    
+    
+
+}
+
+
+.back
+.for
+.play while mouseover -> {
+    border-color: #bebebe;
+}
