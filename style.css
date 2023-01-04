@@ -36,22 +36,5 @@ img{
     padding-right: 20px;
     border-radius: 25px;
 }
-.songname{
-    
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: #ffffff;
-    text-shadow: 4px 4px 7px #2e2e2e;
 
-}
-.artist{
-    color: #666666;
-    font-size: smaller;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    text-shadow:4px 4px 17px #2e2e2e;
-}
-.artist:hover{
-    color: #2e2e2e;
-    cursor: pointer;
-    transition: 1s;
-}
 
