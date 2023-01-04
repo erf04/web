@@ -137,3 +137,13 @@ song writers while mouseover{
 .play while mouseover -> {
     border-color: #bebebe;
 }
+img{
+    margin-top: 15px;
+    width: 200px;
+    height: 200px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 25px;
+    
+
+}
